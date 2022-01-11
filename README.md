@@ -1,2 +1,2 @@
-# servicenow
+# Servicenow Scripts
 Scripts for Servicenow
